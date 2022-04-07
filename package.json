@@ -1,0 +1,8 @@
+{
+    "name": "sr-classic-test",
+    "version": "0.0.0-development",
+    "repository": "https://github.com/dilex42/sr-classic-test",
+    "devDependencies": {
+      "semantic-release": "^17.0.4"
+    }
+  }
